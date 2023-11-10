@@ -62,7 +62,7 @@ La comunicación del usuario con el prototipo se realizará mediante una conexi�
 ## Arquitectura 
 
 
-
+[![Imagen-de-Whats-App-2023-11-09-a-las-21-49-19-d4b6c808.jpg](https://i.postimg.cc/vTmzxZWr/Imagen-de-Whats-App-2023-11-09-a-las-21-49-19-d4b6c808.jpg)](https://postimg.cc/sQtStyHx)
 
 
 
