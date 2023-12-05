@@ -69,3 +69,4 @@ La comunicación del usuario con el prototipo se realizará mediante una conexi�
 ## Base de datos
 ![Base de Datos](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_194854915.png)
 
+## VIDEO EXPLICATIVO DEL FUNCIONAMIENTO 
