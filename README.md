@@ -74,7 +74,7 @@ https://github.com/ABOK451/Personaje-Navide-o/blob/main/VIDEOS_FUNCIONAMIENTO/VI
 ## FOTOS DE ELABORACION 
 ![](https://github.com/ABOK451/Personaje-Navide-o/blob/main/FOTOS_ELABORACION/6c06d3ff-5138-4d80-bb30-e7ed9f47cac8.jpg)
 ![](https://github.com/ABOK451/Personaje-Navide-o/blob/main/FOTOS_ELABORACION/dbfdc08f-1d89-4905-bcf6-77d5526dd897.jpg)
-LINK CON CARPETA CON MAS FOTOS Y VIDEOS
+## LINK CON CARPETA CON MAS FOTOS Y VIDEOS
 https://github.com/ABOK451/Personaje-Navide-o/tree/main/FOTOS_ELABORACION
 https://github.com/ABOK451/Personaje-Navide-o/tree/main/VIDEOS_ELABORACION
 ## LINK CODIGO 
