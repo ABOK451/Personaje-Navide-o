@@ -71,3 +71,5 @@ La comunicación del usuario con el prototipo se realizará mediante una conexi�
 
 ## VIDEO EXPLICATIVO DEL FUNCIONAMIENTO 
 https://github.com/ABOK451/Personaje-Navide-o/blob/main/VIDEOS_FUNCIONAMIENTO/VID-20231205-WA0007.mp4
+## FOTOS DE ELABORACION 
+![](https://github.com/ABOK451/Personaje-Navide-o/blob/main/FOTOS_ELABORACION/6c06d3ff-5138-4d80-bb30-e7ed9f47cac8.jpg)
